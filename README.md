@@ -21,7 +21,7 @@ Bonus 25/25 :
 
 ## How to use
 
-This functions can be used in a loop to read an entire file.
+This functions can be used in a loop to read an entire file.  
 It is also able to manage multiple file descriptor without losing the reading thread on each of the descriptors.
 
 ### Input
