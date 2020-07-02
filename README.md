@@ -8,13 +8,13 @@ Bonus 25/25 :
  :heavy_check_mark: Only one static variable | :heavy_check_mark: Multiple file descriptors handeling
 
 #### Objectives :
-•Filedescriptors   
-•Buffering  
-•Basic parsing
+• Filedescriptors   
+• Buffering  
+• Basic parsing
 #### Skills :
-•Imperative programming  
-•Rigor  
-•Algorithms & AI   
+• Imperative programming  
+• Rigor  
+• Algorithms & AI   
  
 #### Here is the function prototype
 ![gnl](https://user-images.githubusercontent.com/45463065/86376673-a39fff00-bc87-11ea-8ab7-e61522c957fc.png)
