@@ -13,8 +13,8 @@ Bonus 25/25 :
 • Basic parsing
 #### Skills :
 • Imperative programming  
+• Algorithms & AI  
 • Rigor  
-• Algorithms & AI   
  
 #### Here is the function prototype
 ![gnl](https://user-images.githubusercontent.com/45463065/86376673-a39fff00-bc87-11ea-8ab7-e61522c957fc.png)
