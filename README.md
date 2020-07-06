@@ -5,7 +5,7 @@ Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/get_nex
 
 Grade 100/100  
 Bonus 25/25 :  
- :heavy_check_mark: Only one static variable | :heavy_check_mark: Multiple file descriptors handeling
+ :heavy_check_mark: Only one static variable | :heavy_check_mark: Multiple filedescriptors handeling
 
 #### Objectives :
 • Filedescriptors   
