@@ -1,5 +1,5 @@
 # 42-GET_Next_Line
-A function able to read content line by line without knowing previously the length of them.
+get_next_line() is a function able to read some content line by line without previously knowing their length. 
 
 Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/get_next_line.en.pdf) - [Français](https://github.com/ssfar/42-Subjects.pdf/blob/master/get_next_line.fr.pdf)
 
@@ -21,8 +21,8 @@ Bonus 25/25 :
 
 ## How to use
 
-This functions can be used in a loop to read an entire file.  
-It is also able to manage multiple file descriptor without losing the reading thread on each of the descriptors.
+This function can be used in a loop to read an entire file.  
+It is also able to manage multiple file descriptors without losing the reading thread on each of the descriptors.
 
 ### Input
 
@@ -31,5 +31,5 @@ The second parameter is the address of a pointer to a character that will be use
 
 ### Output
 
-In case of a succesfull read, the given pointer to a character is allocated whit malloc() and the line read is stored inside the allocated area whitout the trailing newline.  
+In case of a succesfull read, the given pointer to a character is allocated with malloc() and the line read is stored inside the allocated area whitout the trailing newline.  
 The return value can be 1, 0 or -1 depending on whether a line has been read, when the reading has been completed, or if an error has happened respectively.
