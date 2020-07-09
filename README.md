@@ -1,21 +1,24 @@
 # 42-GET_Next_Line
 get_next_line() is a function able to read some content line by line without previously knowing their length. 
 
-Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/get_next_line.en.pdf) - [Français](https://github.com/ssfar/42-Subjects.pdf/blob/master/get_next_line.fr.pdf)
+Subject: [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/get_next_line.en.pdf) - [Français](https://github.com/ssfar/42-Subjects.pdf/blob/master/get_next_line.fr.pdf)
 
 Grade 100/100  
-Bonus 25/25 :  
+Bonus 25/25:  
  :heavy_check_mark: Only one static variable | :heavy_check_mark: Multiple filedescriptors handeling
 
-#### Objectives :
+#### Objectives:
 • Filedescriptors   
 • Buffering  
 • Basic parsing
-#### Skills :
+#### Skills:
 • Imperative programming  
 • Algorithms & AI  
 • Rigor  
- 
+
+#### Developed for Mac OS X.  
+(It might work on other operating systems, otherwise I may apply some modifications later on).
+
 #### Here is the function prototype
 ![gnl](https://user-images.githubusercontent.com/45463065/86376673-a39fff00-bc87-11ea-8ab7-e61522c957fc.png)
 
